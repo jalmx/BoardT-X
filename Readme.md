@@ -1,6 +1,7 @@
 # Board X
 
-Application to draw with any device, and you can connect with you smartphon o tablet
+Application to draw with any device, and you can connect with you smartphon o tablet woith sockeio.
+For the moment just the design, maybe in future build it
 
 ## Views 
 
